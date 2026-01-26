@@ -22,7 +22,7 @@ $ npm run dev
 The app will be running on http://localhost:3000 by default.
 
 ## Compatibility
-Tested on Node.js v22.2.0.  
+Tested on Node.js v24.13.0.  
 May not work with older versions.
 
 ---
